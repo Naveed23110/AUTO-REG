@@ -3,8 +3,7 @@
 99fef566-d378-4a45-8136-f7b97b47a489
 e185fc9e-f53b-42b8-ad62-60cb35d91946
 
-30 minutes 
-bda2bc8f-0ff5-4dd8-893e-7750b26ce638
+
 admins token👆🏻👆🏻
 members user token👇🏻👇🏻
 17/03/2025
@@ -15,4 +14,5 @@ e00d84ed-762e-4dd8-a762-1fdff3b2e9c3
 d55bdbfb-cae5-4b12-966c-c0829e3daaac
 1d6f82ed-5005-472b-b4f4-e4e37803b008
 9cf10df2-32ab-4410-993b-f9e2808791a2
+18_03_2025
 8506d437-b378-435c-8a7c-720de08872bd
